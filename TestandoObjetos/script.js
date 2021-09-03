@@ -1,7 +1,7 @@
 class Pessoa{
-    nome;
-    email;
-    idade;
+    var nome;
+    var email;
+    var idade;
     constructor(nome_construtor, email_construtor, idade_construtor){
         this.nome = nome_construtor;
         //construtor armazena dado "felipe" no objeto parte5
