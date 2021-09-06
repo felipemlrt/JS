@@ -15,7 +15,7 @@ class Pessoa{
 }
 
 function enviar_dados(){
-    var nome_input = document.getElementById("aaa").value
+    var nome_input = document.getElementById("input_nome").value
     //receber o dado "felipe" parte 3
     var email_input = document.getElementById("bbb").value
     var idade_input = document.getElementById("ccc").value
