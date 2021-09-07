@@ -4,13 +4,11 @@ class Pessoa{
     var idade;
     constructor(nome_construtor, email_construtor, idade_construtor){
         this.nome = nome_construtor;
-        //construtor armazena dado "felipe" no objeto parte5
         this.email = email_construtor;
         this.idade = idade_construtor;
     }
     mostrar_dados(){
         return this.nome+" "+this.email+" "+this.idade
-        //funcao retorna "felipe" parte 7
     }
 }
 
