@@ -21,6 +21,4 @@ function enviar_dados(){
     //dado "felipe" passado para o construtor parte 4
     //-------------------------------------
     document.write(pessoa_1.mostrar_dados())
-    //funcao mostrar dados chamada parte 6
-    //document write mostra o dado "felipe" parte 8
 }
