@@ -18,7 +18,5 @@ function enviar_dados(){
     var email_input = document.getElementById("bbb").value
     var idade_input = document.getElementById("ccc").value
     var pessoa_1 = new Pessoa(nome_input, email_input, idade_input);
-    //dado "felipe" passado para o construtor parte 4
-    //-------------------------------------
     document.write(pessoa_1.mostrar_dados())
 }
