@@ -16,6 +16,6 @@ function enviar_dados(){
     var nome_input = document.getElementById("input_nome").value
     var email_input = document.getElementById("input_email").value
     var idade_input = document.getElementById("input_idade").value
-    var pessoa_1 = new Pessoa(nome_input, email_input, idade_input);
-    document.write(pessoa_1.mostrar_dados())
+    var pessoa = new Pessoa(nome_input, email_input, idade_input);
+    document.write(pessoa.mostrar_dados())
 }
