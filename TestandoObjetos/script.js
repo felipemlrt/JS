@@ -1,3 +1,4 @@
+// creating a simple object and using it
 class Pessoa{
     var nome;
     var email;
