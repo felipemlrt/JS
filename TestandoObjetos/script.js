@@ -1,5 +1,5 @@
 // creating a simple object and using it
-class Pessoa{
+class Pessoa{ //this is the declaration of the class, we will create a class and its name is Pessoa (Person)
     var nome;
     var email;
     var idade;
