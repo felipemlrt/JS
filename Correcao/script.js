@@ -6,6 +6,7 @@
 //e) expressão (a == 3 || b > 10 || d == 8 ) é verdadeiro.
 
 //verificando:
+//declaracao das variaveis e atribuicao dos valores apropriados
 a =5, b=7, c=3,d=9
 
 //a) expressão: (a != 3 || b < 10 || c == 5) é falso.
