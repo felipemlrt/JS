@@ -1,5 +1,5 @@
 //Quais afirmacoes a seguir sao verdadeiras?
-//a) xpressão (a != 3 || b < 10 || c == 5) é falso.
+//a) a expressão (a != 3 || b < 10 || c == 5) terá resultado falso.
 //b) xpressão (d > 8 && c == 3 || a >= 10) é verdadeiro.
 //c) xpressão (d == 12 && a != 10) é falso.
 //d) expressão (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) é falso.
