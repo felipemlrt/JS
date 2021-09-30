@@ -6,6 +6,7 @@
 //e) expressão (a == 3 || b > 10 || d == 8 ) terá resultado verdadeiro.
 
 //verificando:
+//testing:
 //declaracao das variaveis e atribuicao dos valores apropriados
 a =5, b=7, c=3,d=9
 
