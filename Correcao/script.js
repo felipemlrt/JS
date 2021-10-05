@@ -1,4 +1,5 @@
 //Quais afirmacoes a seguir sao verdadeiras?
+//Wich of the following are true?
 //a) a expressão (a != 3 || b < 10 || c == 5) terá resultado falso.
 //b) a expressão (d > 8 && c == 3 || a >= 10) terá resultado verdadeiro.
 //c) a expressão (d == 12 && a != 10) terá resultado falso.
