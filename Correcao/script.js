@@ -5,8 +5,11 @@
 //b) a expressão (d > 8 && c == 3 || a >= 10) terá resultado verdadeiro.
 //b) the expression
 //c) a expressão (d == 12 && a != 10) terá resultado falso.
+//c) the expression
 //d) a expressão (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) terá resultado falso.
+//d) the expression
 //e) a expressão (a == 3 || b > 10 || d == 8 ) terá resultado verdadeiro.
+//e) the expression
 
 //verificando:
 //testing:
