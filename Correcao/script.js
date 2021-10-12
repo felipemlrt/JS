@@ -9,7 +9,7 @@
 //d) a expressão (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) terá resultado falso.
 //d) the expression (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) )
 //e) a expressão (a == 3 || b > 10 || d == 8 ) terá resultado verdadeiro.
-//e) the expression (a == 3 || b > 10 || d == 8 )
+//e) the expression (a == 3 || b > 10 || d == 8 ) will have a result of true.
 
 //verificando:
 //testing:
