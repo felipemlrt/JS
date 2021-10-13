@@ -14,6 +14,7 @@
 //verificando:
 //testing:
 //declaracao das variaveis e atribuicao dos valores apropriados
+//decalring variables and assigning appropriated values
 a =5, b=7, c=3,d=9
 
 //a) expressão: (a != 3 || b < 10 || c == 5) é falso.
