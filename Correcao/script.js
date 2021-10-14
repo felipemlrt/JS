@@ -18,6 +18,7 @@
 a =5, b=7, c=3,d=9
 
 //a) expressão: (a != 3 || b < 10 || c == 5) é falso.
+//a) the expression (a != 3 || b < 10 || c == 5) will have a result of false.
 document.write((a != 3 || b < 10 || c == 5),"<br>")
 
 //b) expressão: (d > 8 && c == 3 || a >= 10) é verdadeiro.
