@@ -26,6 +26,7 @@ document.write((a != 3 || b < 10 || c == 5),"<br>")
 document.write((d > 8 && c == 3 || a >= 10),"<br>")
 
 //c) expressão: (d == 12 && a != 10) é falso.
+//c) the expression (d == 12 && a != 10) will have a result of false.
 document.write(!(d == 12 && a != 10),"<br>")
 
 //d) a expressão: (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) é falso.
