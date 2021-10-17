@@ -30,6 +30,7 @@ document.write((d > 8 && c == 3 || a >= 10),"<br>")
 document.write(!(d == 12 && a != 10),"<br>")
 
 //d) a expressão: (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) é falso.
+//d) the expression (c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ) will have a result of false.
 document.write((c == 4 || d <=6) && (a >= 5 && b !=9) || ( ! (a < 5) ),"<br>")
 
 //e) a expressão: (a == 3 || b > 10 || d == 8 ) é verdadeiro.
