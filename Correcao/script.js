@@ -1,5 +1,4 @@
-//Quais afirmacoes a seguir sao verdadeiras?
-//Wich of the following are true?
+//Quais afirmacoes a seguir sao verdadeiras? //Wich of the following are true?
 //a) a expressão (a != 3 || b < 10 || c == 5) terá resultado falso.
 //a) the expression (a != 3 || b < 10 || c == 5) will have a result of false.
 //b) a expressão (d > 8 && c == 3 || a >= 10) terá resultado verdadeiro.
@@ -11,8 +10,7 @@
 //e) a expressão (a == 3 || b > 10 || d == 8 ) terá resultado verdadeiro.
 //e) the expression (a == 3 || b > 10 || d == 8 ) will have a result of true.
 
-//verificando:
-//testing:
+//verificando: //testing:
 //declaracao das variaveis e atribuicao dos valores apropriados
 //decalring variables and assigning appropriated values
 a =5, b=7, c=3,d=9
