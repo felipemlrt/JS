@@ -1,4 +1,4 @@
-//fibonacci
+//Crie um código que gere a sequencia de fibonacci
 //1 1 2 3 5 8 13 21 34
 // function fibonacci(limite_de_repeticoes) {
 //   var anterior_1 = 1, anterior_2 = 1;
