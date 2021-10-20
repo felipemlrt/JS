@@ -1,5 +1,5 @@
 //Crie um código que gere a sequencia de fibonacci
-//1 1 2 3 5 8 13 21 34
+//1 1 2 3 5 8 13 21 34 exemplo de sequencia, no caso com 7 repetições
 // function fibonacci(limite_de_repeticoes) {
 //   var anterior_1 = 1, anterior_2 = 1;
 //   document.write(anterior_1, " ", anterior_2, " ");
