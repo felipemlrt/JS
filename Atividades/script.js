@@ -1,5 +1,4 @@
-//1)
-//Crie um código que gere a sequencia de fibonacci
+//1) Crie um código que gere a sequencia de fibonacci
 //1 1 2 3 5 8 13 21 34 exemplo de sequencia, no caso com 7 repetições
 // function fibonacci(limite_de_repeticoes) {
 //   var anterior_1 = 1, anterior_2 = 1;
@@ -16,8 +15,7 @@
 // fibonacci(repeticoes)
 
 //sensor_1 sensor_2 sensor_3
-//2)
-// faça uma função que verifique se os 3 valores medidos estao a menos de 10%
+//2) Faça uma função que verifique se os 3 valores medidos estao a menos de 10%
 // da media dentre eles
 
 //media?
