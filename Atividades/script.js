@@ -42,6 +42,7 @@ function testa_3_sensores(sensor_1, sensor_2, sensor_3){
     return false;
 }
 
+//testando
 var sensor_1=35, sensor_2=33, sensor_3=55;
 if (testa_3_sensores(sensor_1, sensor_2, sensor_3))
   document.write("ALARME: Dados de entrada nao sao compativeis")
