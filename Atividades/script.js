@@ -14,7 +14,6 @@
 // repeticoes = prompt("Quantas repeticoes da sequencia?")
 // fibonacci(repeticoes)
 
-//sensor_1 sensor_2 sensor_3
 //2) Faça uma função que verifique se os 3 valores medidos estao a menos de 10% da media dentre eles
 
 function media(valor_1, valor_2, valor_3){
